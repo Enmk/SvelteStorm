@@ -9,7 +9,7 @@ SvelteStorm 5.0
  - [New Features and Improvements](#new-features-and-improvements)
  - [How To Use SvelteStorm](#how-to-use-sveltestorm)
  - [Installing SvelteStorm 5 for the Purpose of Enhancing SvelteStorm as an IDE](#installing-sveltestorm-5-for-the-purpose-of-enhancing-sveltestorm-as-an-ide)
-   - [macOS](#macos)
+   - [macOS or Linux](#macos)
    - [Windows (using WSL 2)](#windows)
  - [Key Features](#key-features)
  - [Authors](#authors)
@@ -54,7 +54,7 @@ https://github.com/open-source-labs/SvelteStorm/issues/57
  
 ## Installing SvelteStorm 5 for the Purpose of Enhancing SvelteStorm as an IDE
  
-### macOS
+### macOS or Linux
  
 1. If using **Node Version Manager** (nvm) enter the following commands to help ensure a smooth installation:
   Install node version 16.16.0
@@ -147,7 +147,8 @@ This application uses Open Source components. You can find the source code of th
  
 ### Project:
  
-Delorean https://github.com/oslabs-beta/DeLorean\nCopyright (c) 2022 OSLabs Beta
+Delorean https://github.com/oslabs-beta/DeLorean
+Copyright (c) 2022 OSLabs Beta
  
-License (MIT) https://github.com/oslabs-beta/DeLorean/blob/main/LICENSE'
+License (MIT) https://github.com/oslabs-beta/DeLorean/blob/main/LICENSE
 
